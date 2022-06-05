@@ -1,0 +1,1 @@
+Finalização do primeiro projeto, com a intenção de aprender o básico do git/github e completar a missão de commitar um repositório :)
